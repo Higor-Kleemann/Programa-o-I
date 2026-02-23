@@ -1,0 +1,39 @@
+A - Active
+S - Server
+P - Pages
+
+Client PC
+Server Banco de Dados
+
+H - HYPER
+T - TEXT
+T - TRANSFER
+P - PROTOCOL
+S - SECURE
+
+D - DOMAIN
+N - NAME
+S - SYSTEM
+
+S - SECURE
+S - SOCKET
+L - LAYER
+
+M - MODEL - Núcleo do modelo da aplicação (web, móvel, aplicativo, sistema/software)
+V - VIEW - Interface do usuário, onde manipula os comandos
+C - CONTROLLER - Controle de comandos
+
+C - CASCADE
+S - STYLE
+S - SHEET
+
+K - KEEP
+I - IT
+S - SIMPLE
+S - STUPID
+
+Y - YOU
+A - AIN'T
+G - GONA
+N - NEED
+I - IT
